@@ -1,2 +1,2 @@
 # AMLTC
-Advanced Machine Learning Training Camp
+Advanced Machine Learning Training Camp - xuetangx
